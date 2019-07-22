@@ -1,2 +1,2 @@
-# Login-Page
-[HTML5 / CSS3] A simple login page with some styling.
+# Login Page
+That's a simple login page made with ```HTML5, CSS3```.
